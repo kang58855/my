@@ -1,3 +1,5 @@
+#!/bin/bash
+
 while 
 do 
 echo "李雨涵 73031580" 
